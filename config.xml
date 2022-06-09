@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<juiceboxgallery 
+
+	galleryTitle="50 Years of the Owens Valley 130-Foot Radio Telescope"
+	textColor="rgba(255,255,255,10)"
+	useFullscreenExpand="true"
+
+>
+  <image imageURL="images/Archives-logo-facebook-version-5.jpg"
+	thumbURL="thumbs/Archives-logo-facebook-version-5.jpg"
+	linkURL="images/Archives-logo-facebook-version-5.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\epiccio\Desktop\Archives-logo-facebook-version-5.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/OVRO_blurb.jpg"
+	thumbURL="thumbs/OVRO_blurb.jpg"
+	linkURL="images/OVRO_blurb.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\epiccio\Desktop\OVRO\New folder\OVRO_blurb.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/OVRO2.2.jpg"
+	thumbURL="thumbs/OVRO2.2.jpg"
+	linkURL="images/OVRO2.2.jpg"
+	linkTarget="_blank"
+	sourcePath="U:\archives.caltech.edu\htdocs\exhibits\OVRO\images\OVRO2.2.jpg">
+    <title><![CDATA[Model of 130-foot radio telescope]]></title>
+    <caption><![CDATA[No date. Photo by Bruce Rule. Photo ID OVRO2.2-1]]></caption>
+  </image>
+  <image imageURL="images/OVRO2.1-8.jpg"
+	thumbURL="thumbs/OVRO2.1-8.jpg"
+	linkURL="images/OVRO2.1-8.jpg"
+	linkTarget="_blank"
+	sourcePath="U:\archives.caltech.edu\htdocs\exhibits\OVRO\images\OVRO2.1-8.jpg">
+    <title><![CDATA[130-foot radio telescope construction site]]></title>
+    <caption><![CDATA[No date. Photo ID OVRO2.1-8]]></caption>
+  </image>
+  <image imageURL="images/OVRO2.1-7.jpg"
+	thumbURL="thumbs/OVRO2.1-7.jpg"
+	linkURL="images/OVRO2.1-7.jpg"
+	linkTarget="_blank"
+	sourcePath="U:\archives.caltech.edu\htdocs\exhibits\OVRO\images\OVRO2.1-7.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[No date. Photo ID OVRO2.1-7]]></caption>
+  </image>
+  <image imageURL="images/OVRO2.13-6.jpg"
+	thumbURL="thumbs/OVRO2.13-6.jpg"
+	linkURL="images/OVRO2.13-6.jpg"
+	linkTarget="_blank"
+	sourcePath="U:\archives.caltech.edu\htdocs\exhibits\OVRO\images\OVRO2.13-6.jpg">
+    <title><![CDATA[Installation of azimuth bearing and gear]]></title>
+    <caption><![CDATA[No date. Photo ID OVRO2.13-6]]></caption>
+  </image>
+  <image imageURL="images/OVRO4.jpg"
+	thumbURL="thumbs/OVRO4.jpg"
+	linkURL="images/OVRO4.jpg"
+	linkTarget="_blank"
+	sourcePath="U:\archives.caltech.edu\htdocs\exhibits\OVRO\images\OVRO4.jpg">
+    <title><![CDATA[Inverted dish segments]]></title>
+    <caption><![CDATA[August 15, 1966. Photo ID OVRO2.3-1]]></caption>
+  </image>
+  <image imageURL="images/OVRO3.jpg"
+	thumbURL="thumbs/OVRO3.jpg"
+	linkURL="images/OVRO3.jpg"
+	linkTarget="_blank"
+	sourcePath="U:\archives.caltech.edu\htdocs\exhibits\OVRO\images\OVRO3.jpg">
+    <title><![CDATA[Dish structure showing central hub]]></title>
+    <caption><![CDATA[October 3, 1966. Photo ID OVRO2.5-6]]></caption>
+  </image>
+  <image imageURL="images/OVRO1.jpg"
+	thumbURL="thumbs/OVRO1.jpg"
+	linkURL="images/OVRO1.jpg"
+	linkTarget="_blank"
+	sourcePath="U:\archives.caltech.edu\htdocs\exhibits\OVRO\images\OVRO1.jpg">
+    <title><![CDATA[Ground view of dish structure]]></title>
+    <caption><![CDATA[October 3, 1966. Photo ID OVRO2.5-3]]></caption>
+  </image>
+  <image imageURL="images/OVRO2.jpg"
+	thumbURL="thumbs/OVRO2.jpg"
+	linkURL="images/OVRO2.jpg"
+	linkTarget="_blank"
+	sourcePath="U:\archives.caltech.edu\htdocs\exhibits\OVRO\images\OVRO2.jpg">
+    <title><![CDATA[Radio telescope pedestal construction]]></title>
+    <caption><![CDATA[April 1967.  Photo ID OVRO2.8-5]]></caption>
+  </image>
+  <image imageURL="images/OVRO2.7-1.jpg"
+	thumbURL="thumbs/OVRO2.7-1.jpg"
+	linkURL="images/OVRO2.7-1.jpg"
+	linkTarget="_blank"
+	sourcePath="U:\archives.caltech.edu\htdocs\exhibits\OVRO\images\OVRO2.7-1.jpg">
+    <title><![CDATA[View of dish looking west]]></title>
+    <caption><![CDATA[April 21, 1967. Photo ID OVRO2.7-1]]></caption>
+  </image>
+  <image imageURL="images/OVRO2.9-3.jpg"
+	thumbURL="thumbs/OVRO2.9-3.jpg"
+	linkURL="images/OVRO2.9-3.jpg"
+	linkTarget="_blank"
+	sourcePath="U:\archives.caltech.edu\htdocs\exhibits\OVRO\images\OVRO2.9-3.jpg">
+    <title><![CDATA[Lifting 130-foot radio telescope dish onto pedestal ]]></title>
+    <caption><![CDATA[July 1967. Photo ID OVRO2.9-3]]></caption>
+  </image>
+  <image imageURL="images/OVRO6.jpg"
+	thumbURL="thumbs/OVRO6.jpg"
+	linkURL="images/OVRO6.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\epiccio\Desktop\OVRO\OVRO6.jpg">
+    <title><![CDATA[Dish panel assembly]]></title>
+    <caption><![CDATA[August 1967. Photo ID OVRO2.11-3]]></caption>
+  </image>
+  <image imageURL="images/OVRO5.jpg"
+	thumbURL="thumbs/OVRO5.jpg"
+	linkURL="images/OVRO5.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\epiccio\Desktop\OVRO\New folder\OVRO5.jpg">
+    <title><![CDATA[Dish panel assembly]]></title>
+    <caption><![CDATA[August 1967. Photo ID OVRO2.11-11]]></caption>
+  </image>
+  <image imageURL="images/Invitation.jpg"
+	thumbURL="thumbs/Invitation.jpg"
+	linkURL="images/Invitation.jpg"
+	linkTarget="_blank"
+	sourcePath="U:\archives.caltech.edu\htdocs\exhibits\OVRO\images\Invitation.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/program.jpg"
+	thumbURL="thumbs/program.jpg"
+	linkURL="images/program.jpg"
+	linkTarget="_blank"
+	sourcePath="U:\archives.caltech.edu\htdocs\exhibits\OVRO\images\program.jpg">
+    <title><![CDATA[An excerpt from the program]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/10.21-2.jpg"
+	thumbURL="thumbs/10.21-2.jpg"
+	linkURL="images/10.21-2.jpg"
+	linkTarget="_blank"
+	sourcePath="U:\archives.caltech.edu\htdocs\exhibits\OVRO\images\10.21-2.jpg">
+    <title><![CDATA[Caltech President Lee DuBridge speaking at dedication]]></title>
+    <caption><![CDATA[October 18, 1968. Photo by Curtis Phillips, Bishop, CA. (Photo ID 10.21-2)]]></caption>
+  </image>
+  <image imageURL="images/view.jpg"
+	thumbURL="thumbs/view.jpg"
+	linkURL="images/view.jpg"
+	linkTarget="_blank"
+	sourcePath="U:\archives.caltech.edu\htdocs\exhibits\OVRO\images\view.jpg">
+    <title><![CDATA[Robert Fleischer, National Science Foundation]]></title>
+    <caption><![CDATA[October 18, 1968. Photo by Curtis Phillips, Bishop, CA. Photo ID 10.21-3]]></caption>
+  </image>
+  <image imageURL="images/OVRO 7.jpg"
+	thumbURL="thumbs/OVRO 7.jpg"
+	linkURL="images/OVRO 7.jpg"
+	linkTarget="_blank"
+	sourcePath="U:\archives.caltech.edu\htdocs\exhibits\OVRO\images\OVRO 7.jpg">
+    <title><![CDATA[Ready to discover the radio Universe]]></title>
+    <caption><![CDATA[September 1967. Photo ID OVRO2.12-2]]></caption>
+  </image>
+</juiceboxgallery>
